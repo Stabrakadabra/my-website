@@ -1,1 +1,1 @@
-# stabra.by
+# my-website
